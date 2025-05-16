@@ -1,2 +1,2 @@
 # Superstore-Data-Analysis
-Exploratory data analysis on Superstore dataset using Python to uncover key business insights
+Exploratory Data Analysis (EDA) of Superstore sales data to extract insights using Python, Pandas, and Matplotlib.
