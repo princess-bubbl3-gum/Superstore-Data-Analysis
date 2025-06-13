@@ -65,3 +65,7 @@ This project explores a Superstore dataset using exploratory data analysis (EDA)
 - Build a simple dashboard using Power BI or Streamlit
 - Include predictive modeling to forecast sales or profits
 
+---
+👩🏾‍💻 Author
+Divine U. Efiok
+Computer Engineering + Math @ Texas A&M University
